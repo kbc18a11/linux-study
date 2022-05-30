@@ -1,1 +1,8 @@
 次 53
+
+- 3.8
+  1. ls
+  2. 3
+  3. pwd
+  4. mv ls
+  5. find /etc -name resolv
