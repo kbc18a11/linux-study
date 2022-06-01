@@ -14,3 +14,12 @@
   3. ls -a /etc | grep -e conf$
   4. ls -l > ls-result
   5. chkconfig --list | grep -e iptables
+
+- 5.7 
+  1. -n
+  2. blue
+     red
+     blue
+  3. diff
+  4. test1とtest2は、同じファイル
+  5. tail -n 8
