@@ -7,3 +7,10 @@
   3. pwd
   4. mv ls
   5. find /etc -name resolv
+
+- 4.6
+  1. 3
+  2. ls /usr/binの結果から、aから始まる3文字
+  3. ls -a /etc | grep -e conf$
+  4. ls -l > ls-result
+  5. chkconfig --list | grep -e iptables

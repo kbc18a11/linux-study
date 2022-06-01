@@ -1,0 +1,4 @@
+./ls-l-output:ls: cannot access 'tekitou': No such file or directory
+./ls-l-output-second:ls: cannot access 'tekitou': No such file or directory
+./ls-output:page.txt
+./page.txt:  5. find /etc -name resolv
