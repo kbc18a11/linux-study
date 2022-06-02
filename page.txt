@@ -30,3 +30,10 @@
   3. :q!
   4. 100g
   5. :s%/高野豆腐/絹ごし豆腐/g
+
+- 7.4
+  1. パスワード
+  2. userdel user2
+  3. groupadd penguin
+  4. passwd penguin
+  5. つけないとrootユーザーに切り替わり、つけると任意のユーザーに切り替えられる
