@@ -37,3 +37,10 @@
   3. groupadd penguin
   4. passwd penguin
   5. つけないとrootユーザーに切り替わり、つけると任意のユーザーに切り替えられる
+
+- 8.3
+  1. 3
+  2. chmod 755 chownfile 
+  3. chmod 644 chownfile 
+  4. 1
+  5. 4
